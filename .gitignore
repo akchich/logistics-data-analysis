@@ -1,0 +1,7 @@
+data/olist_customers_dataset.csv
+data/olist_order_items_dataset.csv
+data/olist_orders_dataset.csv
+
+__pycache__/
+*.pyc
+.env
